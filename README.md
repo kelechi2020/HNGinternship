@@ -1,0 +1,1 @@
+This Repo was created to showcase my activities during the Hotels.ng internship
